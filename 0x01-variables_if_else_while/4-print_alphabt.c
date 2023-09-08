@@ -6,7 +6,6 @@
  * Description: print the alphabet except e and q.
  *
  * Return: Always 0 (success)
- *
 */
 
 int main(void)
