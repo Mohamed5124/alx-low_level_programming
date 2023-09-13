@@ -3,7 +3,8 @@
 /**
  * main - Entery point
  *
- * Description: print the alphabet
+ * Description: print_alphabet - utilize on the _putchar function to print
+ *                  the alphabet a - z
  *
  * Return: always 0 success
 */
